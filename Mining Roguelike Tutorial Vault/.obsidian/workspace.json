@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "71ba8368d2c023b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "17424580a492b5f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "022e185cb4b4af58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mining Roguelite Tutorial/Section 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Section 7"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "431c5d37effe2a05",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b2b64b89c2a0471",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de1233cc180123fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "76b229089014be11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e126c154ad430fc0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 238.30001831054688
+  },
+  "right": {
+    "id": "7675319bfe4ccdbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c881c8eff981f788",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b7c30839b307150",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kenney Platformer Tutorial/Game Design/3-Kenney Asset Selection.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4ae7427c6cca1374",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kenney Platformer Tutorial/Game Design/3-Kenney Asset Selection.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c00ceab8cf728446",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9be1c1b78b7d20db",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "54eca1b7bc50017a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kenney Platformer Tutorial/Game Design/3-Kenney Asset Selection.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "022e185cb4b4af58",
+  "lastOpenFiles": [
+    "Mining Roguelite Tutorial/Section 1.md",
+    "Coding with Russ Tutorials/Mining Roguelite Tutorial/Section 7.md",
+    "Coding with Russ Tutorials/Images/Pasted image 20261001103335.png",
+    "Coding with Russ Tutorials/Images/Pasted image 20261001103256.png",
+    "Coding with Russ Tutorials/Images/Pasted image 20261001102948.png",
+    "Coding with Russ Tutorials/Images/Pasted image 20261001102914.png",
+    "Coding with Russ Tutorials/Images/Pasted image 20261001084405.png",
+    "Coding with Russ Tutorials/Images/Pasted image 20261001082217.png",
+    "Coding with Russ Tutorials/Images/Pasted image 20261001082131.png",
+    "Coding with Russ Tutorials/Images/Pasted image 20261001082055.png",
+    "Coding with Russ Tutorials/Images/Pasted image 20261001081254.png",
+    "Coding with Russ Tutorials/Images/Pasted image 20261001063743.png",
+    "Coding with Russ Tutorials/Mining Roguelite Tutorial/Tutorial Reference.md",
+    "Coding with Russ Tutorials/Mining Roguelite Tutorial/Section 6.md",
+    "Coding with Russ Tutorials/Mining Roguelite Tutorial/Section 5.md",
+    "Coding with Russ Tutorials/Mining Roguelite Tutorial/Section 4.md",
+    "Coding with Russ Tutorials/Mining Roguelite Tutorial/Section 1.md",
+    "Coding with Russ Tutorials/Mining Roguelite Tutorial/Section 2.md",
+    "Coding with Russ Tutorials/Mining Roguelite Tutorial/Section 3.md",
+    "Coding with Russ Tutorials/Images/20260929-2056-49.5577355.mp4",
+    "Coding with Russ Tutorials/Images/20260927-2150-56.2978498.mp4",
+    "Coding with Russ Tutorials/Images/20260928-1210-33.2269330.mp4",
+    "Coding with Russ Tutorials/Images",
+    "Coding with Russ Tutorials/Images/20260928-2212-32.8578367.mp4",
+    "Coding with Russ Tutorials/Images/20260928-2202-30.1551893.mp4",
+    "Coding with Russ Tutorials/Images/20260928-2145-29.0559658.mp4",
+    "Coding with Russ Tutorials/Images/20260928-1526-02.7644189.mp4",
+    "Kenney Platformer Tutorial/Game Level Design/Level 3 - Design.md",
+    "Kenney Platformer Tutorial/Game Level Design/Level 1 - Green Fields - Background.md",
+    "Kenney Platformer Tutorial/Game Design/1-Game Design & Development.md",
+    "Kenney Platformer Tutorial/Game Design/4-Animation Player.md",
+    "Kenney Platformer Tutorial/Game Design/5-Load Textures Function.md",
+    "Kenney Platformer Tutorial/Game Design/6-Player States.md",
+    "Kenney Platformer Tutorial/Game Design/7-Player Jump & Fall.md",
+    "Michael Games 2D RPG Tutorial/E02 - Player Idle & Walk Animations.md",
+    "Michael Games 2D RPG Tutorial/E03 - Player State Machine.md",
+    "Michael Games 2D RPG Tutorial/E04 - Tilemaps and Tilesets.md",
+    "Michael Games 2D RPG Tutorial/E01 - Make a Basic Top Down Character.md",
+    "Michael Games 2D RPG Tutorial/Tutorial Reference.md",
+    "Coding with Russ Tutorials/Mining Roguelite Tutorial",
+    "Coding with Russ Tutorials",
+    "Kenney Platformer Tutorial/Game Design/3-Kenney Asset Selection.md",
+    "Kenney Platformer Tutorial/Basic Game Elements/7-Player Animation.md",
+    "Kenney Platformer Tutorial/Basic Game Elements/5-Player Control.md",
+    "Kenney Platformer Tutorial/Basic Game Elements/4-Library.md",
+    "Kenney Platformer Tutorial/Basic Game Elements/3-Collision Example.md"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+    "activeFile": "map_02.json",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "All-Props.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 3,
+            "scaleInEditor": 4
+        },
+        "Characters.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 3,
+            "scaleInEditor": 4
+        },
+        "Ground - dark.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "Ground-dark.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 3,
+            "scaleInEditor": 4
+        },
+        "Railway.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 3,
+            "scaleInEditor": 4
+        },
+        "Wall-cave.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 3,
+            "scaleInEditor": 4
+        },
+        "base_map.json": {
+            "expandedObjectLayers": [
+                3,
+                6
+            ],
+            "scale": 2.5828124999999997,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 239.85480943738662,
+                "y": 159.9032062915911
+            }
+        },
+        "map_02.json": {
+            "scale": 1.6996093749999999,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 282.7120202252356,
+                "y": 177.68788784187547
+            }
+        },
+        "map_1.json": {
+            "expandedObjectLayers": [
+                4,
+                5
+            ],
+            "scale": 2.4027083333333334,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 221.20870545391486,
+                "y": 159.81964796670422
+            }
+        }
+    },
+    "last.imagePath": "C:/arcade_tutorials/mining_roguelite_tutorial/assets/mine_tiles/Props",
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "base_map.json",
+        "map_1.json",
+        "map_02.json",
+        "Ground-dark.tsx",
+        "Wall-cave.tsx",
+        "Characters.tsx",
+        "Railway.tsx",
+        "All-Props.tsx"
+    ],
+    "project": "mining_roguelite_tutorial.tiled-project",
+    "recentFiles": [
+        "base_map.json",
+        "map_1.json",
+        "All-Props.tsx",
+        "Railway.tsx",
+        "Characters.tsx",
+        "Wall-cave.tsx",
+        "Ground-dark.tsx",
+        "map_02.json",
+        "Ground - dark.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.type": 0
+}

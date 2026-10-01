@@ -1,0 +1,15 @@
+### Images:
+
+- Cute Fantasy RPG - this is used for the character: https://kenmi-art.itch.io/cute-fantasy-rpg
+- Hana caraka - for the main tileset and ores: https://otterisk.itch.io/hana-caraka-dungeon-mining
+- DialogueBoxSimple.png from Ninja pack: https://pixel-boy.itch.io/ninja-adventure-asset-pack
+
+
+### Sound effects:
+
+- Pickaxe: https://freesound.org/people/NoisyRedFox/sounds/760566/
+- Rock breaking: https://freesound.org/people/newlocknew/sounds/631485/
+
+### Font:
+
+- Font: https://managore.itch.io/m5x7
